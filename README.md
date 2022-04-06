@@ -1,2 +1,2 @@
-# core
-Home Assistant
+# Ecowitt Station
+Home Assistant with ecowitt.

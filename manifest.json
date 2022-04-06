@@ -1,0 +1,10 @@
+{
+  "domain": "ecowitt_station",
+  "name": "Ecowitt Weather Station",
+  "config_flow": true,
+  "documentation": "https://www.home-assistant.io/integrations/ecowitt_station",
+  "requirements": ["ecowitt==2022.04.0"],
+  "codeowners": ["@ecowitt"],
+  "iot_class": "cloud_push",
+  "loggers": ["ecowitt"]
+}

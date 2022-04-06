@@ -1,0 +1,20 @@
+{
+    "config": {
+        "abort": {
+            "already_configured": "服务已经配置好"
+        },
+        "error": {
+            "invalid_key": "无效的API密匙",
+            "no_devices": "帐户中没有发现设备"
+        },
+        "step": {
+            "user": {
+                "data": {
+                    "api_key": "API Key",
+                    "app_key": "Application Key"
+                },
+                "title": "填写您的信息"
+            }
+        }
+    }
+}

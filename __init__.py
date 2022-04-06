@@ -43,7 +43,6 @@ DEFAULT_SOCKET_MIN_RETRY = 15
 
 CONFIG_SCHEMA = cv.removed(DOMAIN, raise_if_present=False)
 
-
 @callback
 def async_wm2_to_lx(value: float) -> int:
     """Calculate illuminance (in lux)."""

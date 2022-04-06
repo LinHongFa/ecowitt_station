@@ -54,7 +54,6 @@ TYPE_RELAY7 = "relay7"
 TYPE_RELAY8 = "relay8"
 TYPE_RELAY9 = "relay9"
 
-
 @dataclass
 class EcowittBinarySensorDescriptionMixin:
     """Define an entity description mixin for binary sensors."""

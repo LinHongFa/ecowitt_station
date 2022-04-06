@@ -654,7 +654,6 @@ async def async_setup_entry(
         ]
     )
 
-
 class EcowittSensor(EcowittWeatherEntity, SensorEntity):
     """Define Ecowitt sensor."""
 

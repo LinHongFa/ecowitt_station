@@ -30,7 +30,6 @@ TO_REDACT = {
     CONF_TZ,
 }
 
-
 async def async_get_config_entry_diagnostics(
     hass: HomeAssistant, entry: ConfigEntry
 ) -> dict[str, Any]:

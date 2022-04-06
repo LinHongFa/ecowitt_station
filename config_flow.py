@@ -12,7 +12,6 @@ from homeassistant.helpers import aiohttp_client
 
 from .const import CONF_APP_KEY, DOMAIN
 
-
 class EcowittStationFlowHandler(config_entries.ConfigFlow, domain=DOMAIN):
     """Handle Ecowitt config flow."""
 
